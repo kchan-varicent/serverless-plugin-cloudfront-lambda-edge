@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/silvermine/serverless-plugin-cloudfront-lambda-edge/badge.svg?branch=master)](https://coveralls.io/github/silvermine/serverless-plugin-cloudfront-lambda-edge?branch=master)
 [![Dependency Status](https://david-dm.org/silvermine/serverless-plugin-cloudfront-lambda-edge.svg)](https://david-dm.org/silvermine/serverless-plugin-cloudfront-lambda-edge)
 [![Dev Dependency Status](https://david-dm.org/silvermine/serverless-plugin-cloudfront-lambda-edge/dev-status.svg)](https://david-dm.org/silvermine/serverless-plugin-cloudfront-lambda-edge#info=devDependencies&view=table)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkchan-varicent%2Fserverless-plugin-cloudfront-lambda-edge.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkchan-varicent%2Fserverless-plugin-cloudfront-lambda-edge?ref=badge_shield)
 
 
 ## What is it?
@@ -266,3 +267,6 @@ details.
 [ReplicaDeleteFail]: https://forums.aws.amazon.com/thread.jspa?threadID=260242&tstart=0
 [HandlingCFNFailure]: https://github.com/silvermine/serverless-plugin-cloudfront-lambda-edge/pull/19
 [includeBody]: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-include-body-access.html
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkchan-varicent%2Fserverless-plugin-cloudfront-lambda-edge.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkchan-varicent%2Fserverless-plugin-cloudfront-lambda-edge?ref=badge_large)
